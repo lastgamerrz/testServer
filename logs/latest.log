@@ -1,0 +1,2 @@
+[12:32:48] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[12:32:49] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
