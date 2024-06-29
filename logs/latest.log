@@ -1,2 +1,1157 @@
-[12:32:48] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[12:32:49] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[12:38:39] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[12:38:39] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[12:38:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:38:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:38:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:38:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:38:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:38:40] [Server thread/INFO]: Starting minecraft server version 20w14~
+[12:38:40] [Server thread/INFO]: Loading properties
+[12:38:40] [Server thread/INFO]: Default game type: SURVIVAL
+[12:38:40] [Server thread/INFO]: Generating keypair
+[12:38:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:38:40] [Server thread/INFO]: Using epoll channel type
+[12:38:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:38:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:38:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:38:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:38:40] [Server thread/INFO]: Preparing level "world"
+[12:38:40] [Server thread/INFO]: Reloading ResourceManager: Default
+[12:38:55] [Server thread/INFO]: Loaded 6 recipes
+[12:38:55] [Server thread/INFO]: Loaded 864 advancements
+[12:38:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:38:57] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:57] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:57] [Server thread/INFO]: Preparing spawn area: 0%
+[12:38:59] [Worker-2/INFO]: Preparing spawn area: 83%
+[12:38:59] [Worker-2/INFO]: Preparing spawn area: 83%
+[12:38:59] [Worker-2/INFO]: Preparing spawn area: 83%
+[12:38:59] [Worker-1/INFO]: Preparing spawn area: 83%
+[12:38:59] [Worker-3/INFO]: Preparing spawn area: 83%
+[12:39:00] [Worker-1/INFO]: Preparing spawn area: 83%
+[12:39:00] [Worker-1/INFO]: Preparing spawn area: 83%
+[12:39:01] [Worker-2/INFO]: Preparing spawn area: 87%
+[12:39:01] [Worker-1/INFO]: Preparing spawn area: 96%
+[12:39:01] [Server thread/INFO]: Time elapsed: 5707 ms
+[12:39:01] [Server thread/INFO]: Done (21.142s)! For help, type "help"
+[12:39:27] [Server thread/INFO]: Made Lord_Mark a server operator
+[12:40:35] [Server thread/INFO]: Lord_Mark[/[0:0:0:0:0:0:0:1%0]:34362] logged in with entity id 138 at (90.5, 71.0, -235.5)
+[12:40:35] [Server thread/INFO]: Lord_Mark joined the game
+[12:40:57] [Server thread/INFO]: Made Lord_Mark a server operator
+[12:41:10] [Server thread/INFO]: [Lord_Mark: Set own game mode to Creative Mode]
+[12:41:23] [Server thread/INFO]: Lord_Mark has made the advancement [Cover Me With Diamonds]
+[12:42:15] [Server thread/INFO]: [Lord_Mark: Set own game mode to Survival Mode]
+[12:42:25] [Server thread/INFO]: [Lord_Mark: Applied enchantment Infinity to Lord_Mark's item]
+[12:42:29] [Server thread/INFO]: [Lord_Mark: Applied enchantment Unbreaking III to Lord_Mark's item]
+[12:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[12:43:09] [Server thread/WARN]: Fetching packet for removed entity azm['Wither Rose'/619, l='world', x=26.43, y=74.00, z=25.95]
+[12:43:21] [Server thread/WARN]: Fetching packet for removed entity azm['Wither Rose'/845, l='world', x=-36.00, y=69.00, z=23.48]
+[12:43:22] [Server thread/WARN]: Fetching packet for removed entity azm['Wither Rose'/887, l='world', x=29.24, y=71.00, z=-8.07]
+[12:43:32] [Server thread/WARN]: Fetching packet for removed entity azm['Wither Rose'/1018, l='world', x=42.75, y=81.00, z=-0.94]
+[12:43:56] [Server thread/INFO]: [Lord_Mark: Applied enchantment Efficiency V to Lord_Mark's item]
+[12:44:24] [Server thread/INFO]: [Lord_Mark: Applied effect Haste to Lord_Mark]
+[12:44:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=54, z=-1} fo{x=58, y=54, z=-1}
+[12:44:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=54, z=-1} fo{x=57, y=53, z=-1}
+[12:44:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=54, z=-1} fo{x=58, y=53, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=54, z=-1} fo{x=58, y=54, z=-2}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=54, z=-1} fo{x=58, y=53, z=-2}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=54, z=-1} fo{x=59, y=53, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=53, z=-1} fo{x=58, y=55, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=53, z=-1} fo{x=59, y=54, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=53, z=-1} fo{x=60, y=54, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=53, z=-1} fo{x=59, y=55, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=55, z=-1} fo{x=60, y=53, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=55, z=-1} fo{x=58, y=56, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=55, z=-1} fo{x=61, y=54, z=-1}
+[12:44:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=55, z=-1} fo{x=60, y=55, z=-1}
+[12:44:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=55, z=-1} fo{x=61, y=55, z=-1}
+[12:44:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=55, z=-1} fo{x=62, y=54, z=-1}
+[12:44:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=55, z=-1} fo{x=61, y=53, z=-1}
+[12:44:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=55, z=-1} fo{x=61, y=52, z=-1}
+[12:44:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=55, z=-1} fo{x=62, y=52, z=-1}
+[12:44:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=55, z=-1} fo{x=62, y=53, z=-1}
+[12:44:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=55, z=-1} fo{x=62, y=51, z=-1}
+[12:44:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-1} fo{x=63, y=51, z=-1}
+[12:44:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-1} fo{x=63, y=50, z=-1}
+[12:44:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-1} fo{x=61, y=50, z=-1}
+[12:44:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-1} fo{x=62, y=50, z=-1}
+[12:44:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-1} fo{x=63, y=49, z=-1}
+[12:44:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-1} fo{x=64, y=50, z=-1}
+[12:44:30] [Server thread/INFO]: Lord_Mark has made the advancement [Ice Bucket Challenge]
+[12:44:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=48, z=-1} fo{x=64, y=49, z=-1}
+[12:44:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=48, z=-1} fo{x=65, y=49, z=-1}
+[12:44:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=48, z=-1} fo{x=65, y=48, z=-1}
+[12:44:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=48, z=-1} fo{x=65, y=49, z=-2}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=48, z=-1} fo{x=63, y=50, z=-2}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=48, z=-1} fo{x=62, y=51, z=-2}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=51, z=-2} fo{x=63, y=51, z=-2}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=51, z=-2} fo{x=63, y=51, z=-3}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=51, z=-2} fo{x=62, y=51, z=-3}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=51, z=-3} fo{x=62, y=50, z=-3}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=63, y=49, z=-2}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=63, y=49, z=-3}
+[12:44:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=63, y=50, z=-3}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=63, y=49, z=-4}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=63, y=49, z=-5}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=62, y=50, z=-4}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=62, y=49, z=-3}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=61, y=49, z=-3}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=61, y=49, z=-4}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-2} fo{x=62, y=49, z=-2}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=49, z=-2} fo{x=62, y=49, z=-1}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=49, z=-2} fo{x=61, y=49, z=-1}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=49, z=-2} fo{x=61, y=49, z=0}
+[12:44:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=49, z=-2} fo{x=61, y=48, z=0}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=49, z=-2} fo{x=61, y=48, z=-1}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=48, z=-1} fo{x=60, y=49, z=-1}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=48, z=-1} fo{x=60, y=49, z=-2}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=48, z=-1} fo{x=61, y=49, z=-2}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=48, z=-1} fo{x=61, y=50, z=-2}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=48, z=-1} fo{x=60, y=49, z=-3}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=60, y=49, z=-4}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=61, y=50, z=-3}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=60, y=50, z=-2}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=60, y=50, z=-1}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=59, y=50, z=-1}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=58, y=50, z=-1}
+[12:44:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=58, y=49, z=-1}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=49, z=-3} fo{x=59, y=50, z=-2}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-2} fo{x=60, y=50, z=-3}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-2} fo{x=60, y=50, z=-4}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-2} fo{x=59, y=50, z=-3}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-2} fo{x=58, y=50, z=-3}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-2} fo{x=59, y=49, z=-2}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-2} fo{x=58, y=49, z=-2}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-2} fo{x=59, y=49, z=-1}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-2} fo{x=58, y=49, z=0}
+[12:44:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-2} fo{x=57, y=49, z=0}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-2} fo{x=57, y=49, z=-1}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-2} fo{x=57, y=49, z=-2}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-2} fo{x=59, y=49, z=-3}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=49, z=-3}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=49, z=-4}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=57, y=49, z=-3}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=50, z=-2}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=57, y=50, z=-2}
+[12:44:35] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=57, y=50, z=-1}
+[12:44:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=55, y=50, z=-2}
+[12:44:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=57, y=50, z=-3}
+[12:44:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=57, y=50, z=-4}
+[12:44:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=50, z=-4}
+[12:44:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=50, z=-5}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=50, z=-6}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=49, z=-5}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=59, y=49, z=-4}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=61, y=48, z=-3}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=60, y=48, z=-4}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=59, y=49, z=-5}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=58, y=49, z=-6}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-3} fo{x=57, y=49, z=-4}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=49, z=-4} fo{x=57, y=49, z=-5}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=49, z=-4} fo{x=58, y=49, z=-7}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=57, y=49, z=-4} fo{x=59, y=49, z=-6}
+[12:44:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=60, y=49, z=-6}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=59, y=50, z=-5}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=59, y=50, z=-4}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=60, y=50, z=-5}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=61, y=50, z=-4}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=63, y=50, z=-4}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=61, y=49, z=-5}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=60, y=49, z=-5}
+[12:44:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=62, y=49, z=-5}
+[12:44:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=62, y=48, z=-5}
+[12:44:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=62, y=49, z=-6}
+[12:44:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=61, y=50, z=-5}
+[12:44:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=63, y=49, z=-6}
+[12:44:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=62, y=50, z=-5}
+[12:44:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=64, y=49, z=-5}
+[12:44:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=62, y=49, z=-4}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=63, y=50, z=-5}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=63, y=50, z=-6}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=63, y=50, z=-7}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=64, y=50, z=-6}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=64, y=50, z=-4}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=49, z=-6} fo{x=64, y=50, z=-3}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-3} fo{x=65, y=50, z=-3}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-3} fo{x=64, y=49, z=-4}
+[12:44:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-3} fo{x=65, y=49, z=-4}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-3} fo{x=65, y=48, z=-4}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-3} fo{x=66, y=48, z=-4}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-3} fo{x=66, y=49, z=-4}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-3} fo{x=64, y=50, z=-5}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-5} fo{x=64, y=49, z=-6}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-5} fo{x=64, y=50, z=-7}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=-5} fo{x=63, y=49, z=-7}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=49, z=-7} fo{x=64, y=49, z=-7}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=49, z=-7} fo{x=64, y=49, z=-8}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=49, z=-7} fo{x=65, y=49, z=-7}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=49, z=-7} fo{x=65, y=49, z=-6}
+[12:44:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-6} fo{x=66, y=49, z=-7}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-6} fo{x=65, y=49, z=-8}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-6} fo{x=61, y=49, z=-6}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-6} fo{x=61, y=49, z=-7}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-6} fo{x=60, y=49, z=-7}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-6} fo{x=60, y=49, z=-8}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-6} fo{x=61, y=50, z=-7}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-6} fo{x=61, y=50, z=-6}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=50, z=-6} fo{x=62, y=50, z=-6}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=50, z=-6} fo{x=61, y=50, z=-8}
+[12:44:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=50, z=-6} fo{x=61, y=51, z=-7}
+[12:44:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-7} fo{x=60, y=50, z=-6}
+[12:44:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-7} fo{x=60, y=51, z=-6}
+[12:44:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-7} fo{x=59, y=50, z=-6}
+[12:44:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-7} fo{x=60, y=50, z=-7}
+[12:44:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=51, z=-7} fo{x=59, y=50, z=-7}
+[12:44:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-8} fo{x=58, y=50, z=-7}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-8} fo{x=59, y=49, z=-7}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-8} fo{x=59, y=49, z=-8}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-8} fo{x=59, y=49, z=-9}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=59, y=50, z=-8} fo{x=60, y=50, z=-8}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=60, y=50, z=-9}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=60, y=50, z=-10}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=59, y=50, z=-8}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=58, y=50, z=-8}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=58, y=49, z=-8}
+[12:44:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=59, y=49, z=-10}
+[12:44:45] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=60, y=49, z=-9}
+[12:44:45] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=61, y=49, z=-9}
+[12:44:45] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=62, y=49, z=-9}
+[12:44:45] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=50, z=-8} fo{x=61, y=49, z=-8}
+[12:44:45] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=49, z=-8} fo{x=62, y=49, z=-8}
+[12:44:45] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=49, z=-8} fo{x=62, y=49, z=-7}
+[12:44:45] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=49, z=-8} fo{x=62, y=50, z=-7}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=49, z=-8} fo{x=62, y=50, z=-8}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=49, z=-8} fo{x=63, y=50, z=-8}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=49, z=-8} fo{x=62, y=50, z=-9}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-9} fo{x=63, y=50, z=-9}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-9} fo{x=63, y=49, z=-8}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-9} fo{x=64, y=50, z=-8}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-9} fo{x=61, y=50, z=-9}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-9} fo{x=63, y=50, z=-10}
+[12:44:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-9} fo{x=62, y=50, z=-10}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-10} fo{x=64, y=50, z=-10}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-10} fo{x=64, y=50, z=-9}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=50, z=-10} fo{x=65, y=50, z=-9}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-9} fo{x=63, y=49, z=-9}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-9} fo{x=64, y=49, z=-9}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-9} fo{x=65, y=49, z=-9}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-9} fo{x=66, y=49, z=-9}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-9} fo{x=67, y=49, z=-9}
+[12:44:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-9} fo{x=66, y=50, z=-9}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-9} fo{x=67, y=50, z=-9}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-9} fo{x=68, y=49, z=-9}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-9} fo{x=68, y=50, z=-9}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-9} fo{x=67, y=50, z=-8}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-9} fo{x=66, y=50, z=-8}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-9} fo{x=65, y=50, z=-8}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-8} fo{x=68, y=50, z=-8}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-8} fo{x=67, y=50, z=-7}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-8} fo{x=66, y=50, z=-7}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-8} fo{x=65, y=50, z=-7}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-7} fo{x=68, y=50, z=-7}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-7} fo{x=67, y=50, z=-6}
+[12:44:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-7} fo{x=65, y=50, z=-6}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-6} fo{x=66, y=50, z=-6}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-6} fo{x=65, y=50, z=-5}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-6} fo{x=66, y=50, z=-5}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-6} fo{x=67, y=50, z=-5}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-6} fo{x=65, y=50, z=-4}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-4} fo{x=66, y=50, z=-4}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-4} fo{x=67, y=50, z=-4}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-4} fo{x=68, y=50, z=-4}
+[12:44:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-4} fo{x=67, y=50, z=-3}
+[12:44:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=50, z=-4} fo{x=66, y=50, z=-3}
+[12:44:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-3} fo{x=68, y=50, z=-3}
+[12:44:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-3} fo{x=66, y=50, z=-2}
+[12:44:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-3} fo{x=67, y=50, z=-2}
+[12:44:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-3} fo{x=68, y=50, z=-5}
+[12:44:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-3} fo{x=68, y=50, z=-6}
+[12:44:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-3} fo{x=68, y=49, z=-8}
+[12:44:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=50, z=-3} fo{x=66, y=49, z=-8}
+[12:44:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=49, z=-8} fo{x=67, y=49, z=-8}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=49, z=-8} fo{x=67, y=49, z=-7}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=49, z=-8} fo{x=68, y=49, z=-7}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=49, z=-8} fo{x=66, y=49, z=-6}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=49, z=-8} fo{x=67, y=49, z=-6}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=49, z=-8} fo{x=66, y=49, z=-5}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=49, z=-8} fo{x=65, y=49, z=-5}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-5} fo{x=67, y=49, z=-5}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-5} fo{x=67, y=49, z=-4}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-5} fo{x=66, y=49, z=-3}
+[12:44:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-5} fo{x=65, y=49, z=-3}
+[12:44:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-3} fo{x=67, y=49, z=-3}
+[12:44:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-3} fo{x=64, y=49, z=-3}
+[12:44:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-3} fo{x=67, y=48, z=-3}
+[12:44:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-3} fo{x=68, y=49, z=-3}
+[12:44:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-3} fo{x=68, y=49, z=-4}
+[12:44:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-3} fo{x=69, y=49, z=-4}
+[12:44:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=49, z=-3} fo{x=68, y=49, z=-5}
+[12:44:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=68, y=49, z=-6}
+[12:45:01] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=69, y=50, z=-3}
+[12:45:01] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=70, y=50, z=-3}
+[12:45:01] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=71, y=50, z=-3}
+[12:45:01] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=72, y=50, z=-3}
+[12:45:01] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=73, y=50, z=-3}
+[12:45:02] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=69, y=50, z=-4}
+[12:45:02] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=70, y=49, z=-4}
+[12:45:02] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=70, y=50, z=-4}
+[12:45:02] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=71, y=50, z=-4}
+[12:45:02] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=72, y=50, z=-4}
+[12:45:05] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=73, y=50, z=-4}
+[12:45:05] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=70, y=50, z=-5}
+[12:45:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=71, y=50, z=-5}
+[12:45:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=72, y=50, z=-5}
+[12:45:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=73, y=50, z=-5}
+[12:45:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=69, y=50, z=-6}
+[12:45:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=70, y=50, z=-6}
+[12:45:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=71, y=50, z=-6}
+[12:45:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=69, y=50, z=-7}
+[12:45:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=72, y=50, z=-6}
+[12:45:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=73, y=50, z=-6}
+[12:45:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=70, y=50, z=-7}
+[12:45:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=71, y=50, z=-7}
+[12:45:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=72, y=50, z=-7}
+[12:45:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=73, y=50, z=-7}
+[12:45:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=69, y=50, z=-8}
+[12:45:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=70, y=50, z=-8}
+[12:45:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=71, y=50, z=-8}
+[12:45:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=72, y=50, z=-8}
+[12:45:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=73, y=50, z=-8}
+[12:45:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=69, y=50, z=-9}
+[12:45:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=70, y=50, z=-9}
+[12:45:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=71, y=50, z=-9}
+[12:45:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=72, y=50, z=-9}
+[12:45:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=73, y=50, z=-9}
+[12:45:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=72, y=49, z=-4}
+[12:45:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=50, z=-4} fo{x=71, y=49, z=-4}
+[12:45:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=71, y=49, z=-4} fo{x=73, y=49, z=-4}
+[12:45:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=71, y=49, z=-4} fo{x=71, y=49, z=-3}
+[12:45:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=71, y=49, z=-4} fo{x=70, y=49, z=-3}
+[12:45:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=49, z=-3} fo{x=72, y=49, z=-3}
+[12:45:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=49, z=-3} fo{x=72, y=48, z=-3}
+[12:45:15] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=49, z=-3} fo{x=69, y=49, z=-3}
+[12:45:16] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=49, z=-3} fo{x=70, y=49, z=-5}
+[12:45:16] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=49, z=-3} fo{x=71, y=49, z=-5}
+[12:45:16] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=70, y=49, z=-3} fo{x=69, y=49, z=-5}
+[12:45:16] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=72, y=49, z=-5}
+[12:45:16] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=72, y=48, z=-5}
+[12:45:16] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=71, y=48, z=-5}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=69, y=49, z=-6}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=70, y=49, z=-6}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=71, y=49, z=-6}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=72, y=49, z=-6}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=71, y=48, z=-6}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-5} fo{x=69, y=49, z=-7}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-7} fo{x=70, y=49, z=-7}
+[12:45:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-7} fo{x=71, y=49, z=-7}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-7} fo{x=69, y=49, z=-8}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-7} fo{x=70, y=49, z=-8}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-7} fo{x=71, y=49, z=-8}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-7} fo{x=71, y=48, z=-8}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-7} fo{x=70, y=48, z=-8}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=71, y=48, z=-8} fo{x=69, y=49, z=-9}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-9} fo{x=70, y=49, z=-9}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-9} fo{x=71, y=49, z=-9}
+[12:45:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-9} fo{x=72, y=49, z=-9}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-9} fo{x=73, y=49, z=-9}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-9} fo{x=73, y=49, z=-8}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=69, y=49, z=-9} fo{x=72, y=49, z=-8}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=72, y=49, z=-8} fo{x=73, y=48, z=-8}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=72, y=49, z=-8} fo{x=73, y=49, z=-7}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-7} fo{x=73, y=48, z=-7}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-7} fo{x=74, y=49, z=-7}
+[12:45:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=74, y=49, z=-7} fo{x=72, y=49, z=-7}
+[12:45:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=74, y=49, z=-7} fo{x=72, y=48, z=-6}
+[12:47:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-6} fo{x=60, y=62, z=11}
+[12:47:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-6} fo{x=60, y=61, z=11}
+[12:47:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-6} fo{x=61, y=62, z=11}
+[12:47:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-6} fo{x=61, y=61, z=11}
+[12:47:17] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-6} fo{x=61, y=61, z=10}
+[12:47:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=73, y=49, z=-6} fo{x=60, y=61, z=10}
+[12:47:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=61, z=10} fo{x=60, y=60, z=11}
+[12:47:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=61, z=10} fo{x=60, y=59, z=11}
+[12:47:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=61, z=10} fo{x=61, y=59, z=11}
+[12:47:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=60, y=61, z=10} fo{x=62, y=60, z=11}
+[12:47:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=59, z=11} fo{x=62, y=61, z=11}
+[12:47:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=59, z=11} fo{x=63, y=60, z=11}
+[12:47:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=59, z=11} fo{x=63, y=61, z=11}
+[12:47:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=59, z=11} fo{x=64, y=60, z=11}
+[12:47:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=60, z=11} fo{x=64, y=61, z=11}
+[12:47:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=60, z=11} fo{x=65, y=60, z=11}
+[12:47:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=60, z=11} fo{x=65, y=61, z=11}
+[12:47:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=60, z=11} fo{x=66, y=60, z=11}
+[12:47:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=58, z=11} fo{x=62, y=59, z=11}
+[12:47:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=63, y=55, z=11}
+[12:47:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=64, y=55, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=64, y=53, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=63, y=54, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=63, y=53, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=64, y=52, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=64, y=51, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=64, y=50, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=58, z=11} fo{x=63, y=52, z=11}
+[12:47:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=50, z=11} fo{x=65, y=51, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=65, y=50, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=64, y=49, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=63, y=51, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=63, y=50, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=64, y=48, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=63, y=49, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=63, y=48, z=11}
+[12:47:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=64, y=47, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=64, y=46, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=65, y=51, z=11} fo{x=63, y=47, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=47, z=11} fo{x=64, y=45, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=47, z=11} fo{x=64, y=44, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=47, z=11} fo{x=63, y=46, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=46, z=11} fo{x=64, y=43, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=46, z=11} fo{x=63, y=45, z=11}
+[12:47:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=45, z=11} fo{x=64, y=42, z=11}
+[12:47:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=45, z=11} fo{x=63, y=44, z=11}
+[12:47:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=44, z=11} fo{x=63, y=42, z=11}
+[12:47:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=44, z=11} fo{x=64, y=41, z=11}
+[12:47:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=44, z=11} fo{x=64, y=40, z=11}
+[12:47:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=44, z=11} fo{x=63, y=41, z=11}
+[12:47:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=41, z=11} fo{x=64, y=39, z=11}
+[12:47:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=41, z=11} fo{x=64, y=38, z=11}
+[12:47:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=41, z=11} fo{x=63, y=40, z=11}
+[12:47:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=40, z=11} fo{x=64, y=37, z=11}
+[12:47:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=40, z=11} fo{x=63, y=39, z=11}
+[12:47:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=39, z=11} fo{x=64, y=36, z=11}
+[12:47:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=39, z=11} fo{x=63, y=38, z=11}
+[12:47:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=35, z=11} fo{x=63, y=37, z=11}
+[12:47:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=35, z=11} fo{x=63, y=36, z=11}
+[12:47:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=35, z=11} fo{x=64, y=35, z=11}
+[12:47:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=35, z=11} fo{x=64, y=34, z=11}
+[12:47:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=35, z=11} fo{x=63, y=34, z=11}
+[12:47:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=35, z=11} fo{x=64, y=33, z=11}
+[12:47:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=35, z=11} fo{x=64, y=32, z=11}
+[12:47:32] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=35, z=11} fo{x=63, y=33, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=64, y=31, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=63, y=32, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=64, y=30, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=63, y=31, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=64, y=29, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=63, y=30, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=64, y=28, z=11}
+[12:47:33] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=63, y=29, z=11}
+[12:47:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=64, y=27, z=11}
+[12:47:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=63, y=28, z=11}
+[12:47:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=64, y=26, z=11}
+[12:47:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=33, z=11} fo{x=63, y=27, z=11}
+[12:47:34] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=25, z=11} fo{x=63, y=26, z=11}
+[12:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=25, z=11} fo{x=63, y=25, z=11}
+[12:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=25, z=11} fo{x=64, y=24, z=11}
+[12:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=25, z=11} fo{x=64, y=23, z=11}
+[12:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=25, z=11} fo{x=63, y=24, z=11}
+[12:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=25, z=11} fo{x=64, y=22, z=11}
+[12:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=64, y=21, z=11}
+[12:47:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=63, y=23, z=11}
+[12:47:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=64, y=20, z=11}
+[12:47:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=63, y=22, z=11}
+[12:47:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=64, y=19, z=11}
+[12:47:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=63, y=21, z=11}
+[12:47:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=64, y=18, z=11}
+[12:47:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=63, y=20, z=11}
+[12:47:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=64, y=17, z=11}
+[12:47:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=22, z=11} fo{x=63, y=19, z=11}
+[12:47:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=64, y=16, z=11}
+[12:47:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=63, y=18, z=11}
+[12:47:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=64, y=15, z=11}
+[12:47:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=63, y=17, z=11}
+[12:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=64, y=14, z=11}
+[12:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=63, y=16, z=11}
+[12:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=64, y=13, z=11}
+[12:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=63, y=15, z=11}
+[12:47:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=64, y=12, z=11}
+[12:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=63, y=14, z=11}
+[12:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=64, y=11, z=11}
+[12:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=19, z=11} fo{x=63, y=13, z=11}
+[12:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=13, z=11} fo{x=64, y=10, z=11}
+[12:47:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=13, z=11} fo{x=63, y=12, z=11}
+[12:47:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=63, y=11, z=11}
+[12:47:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=64, y=9, z=11}
+[12:47:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=64, y=8, z=11}
+[12:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=63, y=9, z=11}
+[12:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=64, y=7, z=11}
+[12:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=64, y=6, z=11}
+[12:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=63, y=8, z=11}
+[12:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=64, y=5, z=11}
+[12:47:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=12, z=11} fo{x=63, y=7, z=11}
+[12:47:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=11} fo{x=63, y=6, z=11}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=11} fo{x=63, y=5, z=12}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=11} fo{x=64, y=5, z=12}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=12} fo{x=64, y=5, z=13}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=12} fo{x=64, y=4, z=13}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=12} fo{x=64, y=6, z=12}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=12} fo{x=63, y=6, z=12}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=6, z=12} fo{x=63, y=6, z=13}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=6, z=12} fo{x=63, y=5, z=13}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=6, z=12} fo{x=63, y=5, z=14}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=6, z=12} fo{x=63, y=5, z=15}
+[12:47:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=6, z=12} fo{x=63, y=4, z=14}
+[12:47:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=4, z=14} fo{x=63, y=4, z=15}
+[12:47:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=4, z=14} fo{x=64, y=5, z=14}
+[12:47:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=4, z=14} fo{x=65, y=5, z=13}
+[12:47:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=4, z=14} fo{x=64, y=4, z=14}
+[12:47:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=4, z=14} fo{x=64, y=3, z=14}
+[12:47:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=4, z=14} fo{x=63, y=4, z=13}
+[12:47:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=4, z=13} fo{x=63, y=3, z=14}
+[12:47:49] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=2, z=14} fo{x=64, y=3, z=13}
+[12:47:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=2, z=13} fo{x=63, y=2, z=14}
+[12:47:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=2, z=14} fo{x=62, y=3, z=14}
+[12:47:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=2, z=14} fo{x=62, y=3, z=15}
+[12:47:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=2, z=14} fo{x=62, y=4, z=14}
+[12:47:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=4, z=14} fo{x=61, y=4, z=14}
+[12:47:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=4, z=14} fo{x=61, y=4, z=15}
+[12:47:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=63, y=3, z=15} fo{x=62, y=2, z=15}
+[12:47:52] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=61, y=3, z=15} fo{x=62, y=4, z=13}
+[12:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=4, z=16} fo{x=63, y=4, z=16}
+[12:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=62, y=4, z=16} fo{x=64, y=4, z=16}
+[12:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=15} fo{x=65, y=4, z=14}
+[12:47:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=64, y=4, z=15} fo{x=64, y=3, z=15}
+[12:47:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=3, z=14} fo{x=65, y=4, z=13}
+[12:47:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=66, y=3, z=13}
+[12:47:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=2, z=13} fo{x=67, y=3, z=13}
+[12:47:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=2, z=13} fo{x=68, y=3, z=13}
+[12:47:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=65, y=5, z=14}
+[12:47:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=66, y=5, z=14}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=67, y=4, z=14}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=68, y=4, z=14}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=69, y=4, z=14}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=68, y=5, z=14}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=70, y=4, z=14}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=70, y=4, z=13}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=66, y=4, z=13} fo{x=67, y=5, z=13}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=67, y=5, z=13} fo{x=66, y=5, z=13}
+[12:47:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=67, y=5, z=13} fo{x=67, y=4, z=13}
+[12:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=4, z=13} fo{x=68, y=5, z=13}
+[12:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=4, z=13} fo{x=68, y=3, z=12}
+[12:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=4, z=13} fo{x=67, y=3, z=12}
+[12:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=4, z=13} fo{x=67, y=2, z=13}
+[12:47:59] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=4, z=13} fo{x=68, y=2, z=12}
+[12:48:16] [Server thread/WARN]: Lord_Mark moved too quickly! -9.365091223742251,-0.18497302774453317,-4.096763545105994
+[12:48:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=-24, y=68, z=-14}
+[12:48:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=-24, y=68, z=-13}
+[12:48:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=-122, y=83, z=-56}
+[12:48:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=-123, y=83, z=-55}
+[12:48:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=-124, y=82, z=-56}
+[12:48:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=-129, y=81, z=-54}
+[12:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[12:50:05] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=11, y=252, z=-3}
+[12:50:05] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=11, y=251, z=-3}
+[12:50:05] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=10, y=251, z=-3}
+[12:50:05] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=9, y=251, z=-3}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=10, y=251, z=-4}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=10, y=251, z=-5}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=68, y=1, z=12} fo{x=9, y=251, z=-4}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=10, y=251, z=-5} fo{x=9, y=251, z=-5}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=8, y=251, z=-5}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=8, y=251, z=-6}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=9, y=251, z=-6}
+[12:50:06] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=10, y=252, z=-7}
+[12:50:07] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=14, y=252, z=-9}
+[12:50:07] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=15, y=251, z=-9}
+[12:50:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=16, y=251, z=-9}
+[12:50:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=16, y=251, z=-8}
+[12:50:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=16, y=251, z=-8}
+[12:50:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=16, y=252, z=-6}
+[12:50:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=16, y=252, z=0}
+[12:50:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=16, y=251, z=1}
+[12:50:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=24, y=251, z=-10}
+[12:50:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=24, y=252, z=-10}
+[12:50:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=24, y=252, z=-10}
+[12:50:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=24, y=251, z=-11}
+[12:50:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=28, y=252, z=-14}
+[12:50:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=29, y=251, z=-15}
+[12:50:15] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=9, y=251, z=-5} fo{x=31, y=252, z=-4}
+[12:50:25] [Server thread/INFO]: Lord_Mark fell from a high place
+[12:50:41] [Server thread/INFO]: [Lord_Mark: Set own game mode to Creative Mode]
+[12:51:46] [Server thread/INFO]: [Lord_Mark: Set own game mode to Survival Mode]
+[12:52:08] [Server thread/INFO]: [Lord_Mark: Applied effect Haste to Lord_Mark]
+[12:52:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=43, y=157, z=-10} fo{x=44, y=157, z=-10}
+[12:52:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=3, y=127, z=-2} fo{x=13, y=92, z=4}
+[12:52:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=3, y=127, z=-2} fo{x=13, y=92, z=5}
+[12:52:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=3, y=127, z=-2} fo{x=13, y=91, z=4}
+[12:52:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=13, y=91, z=5}
+[12:53:15] [Server thread/INFO]: Lord_Mark has made the advancement [A Terrible Fortress]
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-11, y=61, z=-39}
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-10, y=61, z=-39}
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=61, z=-39}
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-11, y=61, z=-40}
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-10, y=60, z=-39}
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-11, y=60, z=-39}
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-11, y=60, z=-40}
+[12:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=60, z=-40}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=60, z=-41}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=61, z=-40}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=61, z=-41}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=62, z=-41}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=62, z=-42}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-13, y=61, z=-40}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=91, z=4} fo{x=-12, y=60, z=-39}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=60, z=-39} fo{x=-13, y=61, z=-39}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=60, z=-39} fo{x=-13, y=60, z=-39}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=60, z=-39} fo{x=-13, y=60, z=-40}
+[12:53:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=60, z=-39} fo{x=-13, y=61, z=-41}
+[12:53:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=60, z=-39} fo{x=-14, y=61, z=-41}
+[12:53:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=60, z=-39} fo{x=-13, y=61, z=-42}
+[12:53:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=61, z=-42} fo{x=-12, y=61, z=-42}
+[12:53:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=62, z=-40} fo{x=-12, y=62, z=-39}
+[12:53:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=63, z=-42} fo{x=-12, y=62, z=-43}
+[12:53:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=63, z=-42} fo{x=-12, y=63, z=-43}
+[12:53:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=63, z=-42} fo{x=-13, y=62, z=-41}
+[12:53:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=63, z=-42} fo{x=-13, y=62, z=-42}
+[12:53:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=63, z=-42} fo{x=-14, y=62, z=-41}
+[12:53:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=62, z=-41} fo{x=-14, y=62, z=-42}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=62, z=-41} fo{x=-13, y=62, z=-40}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=62, z=-41} fo{x=-13, y=63, z=-41}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=62, z=-41} fo{x=-14, y=63, z=-41}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=62, z=-41} fo{x=-14, y=63, z=-42}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=63, z=-42} fo{x=-14, y=64, z=-41}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=63, z=-42} fo{x=-14, y=62, z=-40}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=63, z=-42} fo{x=-14, y=63, z=-40}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=63, z=-42} fo{x=-13, y=62, z=-39}
+[12:53:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=62, z=-39} fo{x=-14, y=62, z=-38}
+[12:53:37] [Server thread/WARN]: Lord_Mark moved too quickly! -10.081438150862809,0.0,0.08723488338549146
+[12:53:43] [Server thread/INFO]: Lord_Mark has made the advancement [Monster Hunter]
+[12:53:58] [Server thread/INFO]: Lord_Mark has made the advancement [Into Fire]
+[12:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[12:55:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23697ms or 473 ticks behind
+[12:55:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=62, z=-39} fo{x=11, y=161, z=4}
+[12:55:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=62, z=-39} fo{x=11, y=160, z=5}
+[12:55:39] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=62, z=-39} fo{x=12, y=160, z=5}
+[12:55:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=159, z=5} fo{x=13, y=160, z=1}
+[12:55:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=13, y=159, z=0} fo{x=12, y=160, z=0}
+[12:55:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=11, y=159, z=-1} fo{x=11, y=160, z=-2}
+[12:55:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=160, z=-3} fo{x=12, y=161, z=-3}
+[12:55:44] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=160, z=-3} fo{x=17, y=160, z=-1}
+[12:55:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=160, z=-3} fo{x=19, y=159, z=-10}
+[12:55:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=19, y=158, z=-11} fo{x=17, y=158, z=-12}
+[12:55:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=19, y=158, z=-11} fo{x=17, y=158, z=-12}
+[12:55:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=17, y=158, z=-15} fo{x=18, y=159, z=-15}
+[12:55:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=17, y=159, z=-17}
+[12:56:00] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=12, y=158, z=-10}
+[12:56:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=13, y=158, z=-5}
+[12:56:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[12:56:47] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=-1, y=127, z=-10}
+[12:56:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=0, y=126, z=-10}
+[12:56:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=-1, y=128, z=-10}
+[12:56:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=0, y=127, z=-10}
+[12:56:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=0, y=125, z=-10}
+[12:56:48] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=-1, y=126, z=-10}
+[12:56:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=0, y=124, z=-10}
+[12:56:50] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=0, y=123, z=-10}
+[12:56:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=-1, y=125, z=-10}
+[12:56:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=-1, y=124, z=-10}
+[12:56:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=-1, y=123, z=-10}
+[12:56:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=0, y=121, z=-10}
+[12:56:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=18, y=158, z=-15} fo{x=0, y=120, z=-10}
+[12:56:51] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=0, y=122, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=-1, y=122, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=-1, y=121, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=-1, y=120, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=-1, y=119, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=0, y=119, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=0, y=118, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=0, y=120, z=-10} fo{x=-1, y=118, z=-10}
+[12:56:53] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=117, z=-10}
+[12:56:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=1, y=116, z=-10}
+[12:56:54] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=119, z=-9}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=119, z=-8}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=118, z=-8}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=118, z=-9}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=118, z=-7}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=117, z=-7}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=119, z=-9}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=118, z=-9}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=119, z=-8}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=118, z=-8}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=117, z=-8}
+[12:56:55] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=117, z=-7}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=118, z=-7}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=118, z=-6}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=118, z=-6}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=117, z=-6}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=117, z=-6}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=1, y=117, z=-6}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=0, y=117, z=-5}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=118, z=-10} fo{x=-1, y=117, z=-5}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-1, y=118, z=-5}
+[12:56:56] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=0, y=119, z=-7}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-1, y=119, z=-7}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-2, y=118, z=-5}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-1, y=119, z=-6}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-2, y=118, z=-6}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-3, y=118, z=-5}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-2, y=117, z=-5}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1, y=117, z=-5} fo{x=-2, y=117, z=-6}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-2, y=117, z=-6} fo{x=-2, y=116, z=-6}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-2, y=117, z=-6} fo{x=-2, y=116, z=-5}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-2, y=117, z=-6} fo{x=-3, y=116, z=-5}
+[12:56:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-3, y=116, z=-5} fo{x=-3, y=116, z=-6}
+[12:56:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-3, y=116, z=-5} fo{x=-3, y=117, z=-6}
+[12:56:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-3, y=116, z=-5} fo{x=-2, y=117, z=-7}
+[12:56:58] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-2, y=117, z=-7} fo{x=-4, y=116, z=-6}
+[12:57:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-2, y=117, z=-7} fo{x=-4, y=117, z=-6}
+[12:57:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-2, y=117, z=-7} fo{x=-5, y=117, z=-6}
+[12:57:08] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-5, y=117, z=-7}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-6, y=117, z=-6}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-4, y=117, z=-5}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-6, y=116, z=-6}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-5, y=116, z=-6}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-4, y=117, z=-7}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-4, y=116, z=-7}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-5, y=117, z=-8}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-4, y=117, z=-8}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-6, y=117, z=-7}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-7, y=117, z=-6}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-5, y=117, z=-5}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-6, y=117, z=-5}
+[12:57:09] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-5, y=116, z=-5}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-6, y=116, z=-5}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-7, y=116, z=-6}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-6, y=116, z=-7}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-7, y=116, z=-7}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-5, y=116, z=-7}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-5, y=117, z=-6} fo{x=-4, y=116, z=-5}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-4, y=116, z=-5} fo{x=-6, y=115, z=-5}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-4, y=116, z=-5} fo{x=-6, y=115, z=-6}
+[12:57:10] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-4, y=116, z=-5} fo{x=-8, y=116, z=-6}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-4, y=116, z=-5} fo{x=-7, y=117, z=-5}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-4, y=116, z=-5} fo{x=-7, y=116, z=-5}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-7, y=116, z=-5} fo{x=-8, y=115, z=-6}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-7, y=116, z=-5} fo{x=-8, y=116, z=-7}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=116, z=-7} fo{x=-7, y=117, z=-7}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=116, z=-7} fo{x=-8, y=117, z=-6}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=116, z=-7} fo{x=-8, y=116, z=-5}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=116, z=-7} fo{x=-7, y=115, z=-5}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=116, z=-7} fo{x=-8, y=115, z=-5}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-8, y=114, z=-5}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-7, y=115, z=-6}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-8, y=114, z=-6}
+[12:57:11] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-9, y=115, z=-6}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-9, y=114, z=-6}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-8, y=114, z=-7}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-9, y=115, z=-5}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-9, y=114, z=-5}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-9, y=116, z=-5}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-10, y=116, z=-5}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-8, y=117, z=-5}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-9, y=116, z=-6}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-9, y=115, z=-7}
+[12:57:12] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-10, y=115, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-8, y=115, z=-5} fo{x=-10, y=115, z=-5}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-10, y=114, z=-5}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-10, y=113, z=-5}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-9, y=113, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-10, y=114, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-10, y=113, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-11, y=114, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-11, y=113, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-12, y=113, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-12, y=114, z=-6}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-11, y=113, z=-5}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-12, y=113, z=-5}
+[12:57:13] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=115, z=-5} fo{x=-13, y=112, z=-6}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-6} fo{x=-13, y=113, z=-7}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-6} fo{x=-11, y=115, z=-6}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-6} fo{x=-11, y=115, z=-5}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-6} fo{x=-11, y=114, z=-5}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-6} fo{x=-12, y=113, z=-4}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-6} fo{x=-12, y=112, z=-5}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-6} fo{x=-13, y=112, z=-5}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-13, y=113, z=-6}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-14, y=113, z=-6}
+[12:57:14] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-12, y=114, z=-5}
+[12:57:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=115, z=-4}
+[12:57:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=115, z=-3}
+[12:57:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=114, z=-3}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=114, z=-2}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-8, y=114, z=-1}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-8, y=114, z=-4}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=114, z=-4}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=113, z=-2}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-8, y=114, z=-3}
+[12:57:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-8, y=115, z=-3}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=114, z=-1}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=115, z=-2}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-10, y=114, z=-1}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=113, z=-1}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=-5} fo{x=-9, y=113, z=0}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-9, y=113, z=0} fo{x=-9, y=114, z=0}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-9, y=113, z=0} fo{x=-10, y=114, z=0}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-9, y=113, z=0} fo{x=-10, y=115, z=-2}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-9, y=113, z=0} fo{x=-10, y=115, z=-1}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-9, y=113, z=0} fo{x=-10, y=115, z=-3}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-9, y=113, z=0} fo{x=-10, y=114, z=-2}
+[12:57:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=114, z=-2} fo{x=-11, y=114, z=-2}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=-2} fo{x=-10, y=114, z=-3}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=114, z=-3} fo{x=-10, y=113, z=-2}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=114, z=-3} fo{x=-11, y=113, z=-2}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-10, y=114, z=-3} fo{x=-11, y=113, z=-1}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=-1} fo{x=-11, y=112, z=-1}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=112, z=-1} fo{x=-12, y=112, z=-1}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=112, z=-1} fo{x=-12, y=113, z=-1}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=112, z=-1} fo{x=-11, y=114, z=-1}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=-1} fo{x=-11, y=115, z=-2}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=-1} fo{x=-12, y=115, z=-2}
+[12:57:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=115, z=-2} fo{x=-11, y=115, z=-1}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=115, z=-1} fo{x=-11, y=115, z=0}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=115, z=-1} fo{x=-11, y=114, z=0}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=115, z=-1} fo{x=-11, y=114, z=1}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-12, y=114, z=1}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-11, y=113, z=0}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-12, y=114, z=0}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-13, y=113, z=-1}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-13, y=113, z=0}
+[12:57:28] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-12, y=113, z=0}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-13, y=113, z=1}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=114, z=1} fo{x=-12, y=113, z=1}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=113, z=1} fo{x=-12, y=113, z=2}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=113, z=1} fo{x=-12, y=112, z=2}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=113, z=1} fo{x=-12, y=112, z=1}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=113, z=1} fo{x=-12, y=111, z=2}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=113, z=1} fo{x=-12, y=112, z=0}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=113, z=1} fo{x=-13, y=112, z=1}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=1} fo{x=-13, y=112, z=2}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=1} fo{x=-11, y=113, z=1}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=1} fo{x=-12, y=112, z=3}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=1} fo{x=-11, y=113, z=2}
+[12:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-12, y=113, z=3}
+[12:57:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=112, z=3}
+[12:57:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=113, z=2}
+[12:57:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=113, z=3}
+[12:57:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-12, y=113, z=4}
+[12:57:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-12, y=114, z=3}
+[12:57:30] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=113, z=4}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=113, z=5}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=112, z=4}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-12, y=112, z=4}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-12, y=112, z=5}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-11, y=112, z=4}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-12, y=111, z=5}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=112, z=5}
+[12:57:31] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=111, z=5}
+[12:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=112, z=6}
+[12:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=111, z=6}
+[12:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-13, y=111, z=7}
+[12:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-11, y=113, z=2} fo{x=-12, y=112, z=6}
+[12:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=112, z=6} fo{x=-12, y=111, z=6}
+[12:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=112, z=6} fo{x=-12, y=112, z=7}
+[12:57:36] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=112, z=7} fo{x=-12, y=111, z=7}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=112, z=7} fo{x=-12, y=111, z=8}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-12, y=111, z=9}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-12, y=112, z=8}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-13, y=112, z=7}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-13, y=111, z=8}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-13, y=112, z=8}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-13, y=111, z=9}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-12, y=111, z=10}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-12, y=111, z=11}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=111, z=8} fo{x=-13, y=112, z=9}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=9} fo{x=-13, y=111, z=10}
+[12:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=9} fo{x=-12, y=112, z=9}
+[12:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=9} fo{x=-13, y=111, z=11}
+[12:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=9} fo{x=-13, y=112, z=10}
+[12:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=10} fo{x=-13, y=112, z=11}
+[12:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=10} fo{x=-13, y=112, z=12}
+[12:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=10} fo{x=-12, y=112, z=10}
+[12:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-13, y=112, z=10} fo{x=-12, y=112, z=11}
+[12:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=112, z=11} fo{x=-12, y=111, z=12}
+[12:57:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=112, z=11} fo{x=-13, y=111, z=12}
+[12:57:41] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-12, y=112, z=11} fo{x=-14, y=112, z=11}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=112, z=11} fo{x=-14, y=111, z=11}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=112, z=11} fo{x=-15, y=110, z=12}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=112, z=11} fo{x=-14, y=111, z=12}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-14, y=111, z=13}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-14, y=112, z=12}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-14, y=111, z=14}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-15, y=111, z=14}
+[12:57:42] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-15, y=110, z=15}
+[12:57:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-14, y=112, z=13}
+[12:57:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-14, y=111, z=15}
+[12:57:43] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=-14, y=111, z=16}
+[12:58:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=12, y=255, z=27}
+[12:58:18] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-14, y=111, z=12} fo{x=12, y=255, z=28}
+[12:58:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=29}
+[12:58:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=30}
+[12:58:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=31}
+[12:58:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=32}
+[12:58:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=33}
+[12:58:20] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=34}
+[12:58:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=35}
+[12:58:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=36}
+[12:58:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=37}
+[12:58:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=38}
+[12:58:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=39}
+[12:58:21] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=40}
+[12:58:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=41}
+[12:58:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=42}
+[12:58:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=43}
+[12:58:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=44}
+[12:58:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=45}
+[12:58:22] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=46}
+[12:58:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=47}
+[12:58:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=48}
+[12:58:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=49}
+[12:58:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=50}
+[12:58:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=51}
+[12:58:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=52}
+[12:58:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=53}
+[12:58:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=54}
+[12:58:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=55}
+[12:58:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=56}
+[12:58:24] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=57}
+[12:58:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=58}
+[12:58:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=59}
+[12:58:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=60}
+[12:58:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=61}
+[12:58:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=62}
+[12:58:25] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=63}
+[12:58:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=64}
+[12:58:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=65}
+[12:58:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=66}
+[12:58:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=67}
+[12:58:26] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=68}
+[12:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=69}
+[12:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=70}
+[12:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=71}
+[12:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=72}
+[12:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=73}
+[12:58:27] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=12, y=255, z=28} fo{x=12, y=255, z=74}
+[12:59:19] [Server thread/INFO]: Lord_Mark has made the advancement [Hot Stuff]
+[13:01:23] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=298, y=68, z=58} fo{x=393, y=74, z=20}
+[13:01:39] [Server thread/WARN]: Lord_Mark moved too quickly! 7.215758398453488,0.7477966597462711,7.126713030066455
+[13:02:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[13:02:57] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=298, y=68, z=58} fo{x=14, y=159, z=-1}
+[13:03:00] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=298, y=68, z=58} fo{x=14, y=159, z=-2}
+[13:03:19] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=298, y=68, z=58} fo{x=15, y=157, z=-15}
+[13:03:19] [Server thread/FATAL]: Error executing task on Chunk source main thread executor for _generated:1329634690
+java.lang.IllegalStateException: POI data mismatch: already registered at fo{x=122, y=3, z=8}
+	at awf.a(SourceFile:82) ~[server.jar:?]
+	at awf.a(SourceFile:66) ~[server.jar:?]
+	at awd.a(SourceFile:51) ~[server.jar:?]
+	at yn.b(SourceFile:1285) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at yl$a.c(SourceFile:554) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at yl$a.w(SourceFile:563) ~[server.jar:?]
+	at alc.c(SourceFile:127) ~[server.jar:?]
+	at yl.a(SourceFile:139) ~[server.jar:?]
+	at bnx.a(SourceFile:231) ~[server.jar:?]
+	at boa.a(SourceFile:109) ~[server.jar:?]
+	at bnx.d(SourceFile:226) ~[server.jar:?]
+	at bnx.d_(SourceFile:438) ~[server.jar:?]
+	at yp.a(SourceFile:203) ~[server.jar:?]
+	at zf.a(SourceFile:915) ~[server.jar:?]
+	at rp.a(SourceFile:40) ~[server.jar:?]
+	at rp.a(SourceFile:10) ~[server.jar:?]
+	at nb.a(SourceFile:21) ~[server.jar:?]
+	at uh.run(SourceFile:18) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at alg.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:750) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:143) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bc(SourceFile:732) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:726) ~[server.jar:?]
+	at alc.bm(SourceFile:103) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:710) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:663) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:03:19] [Server thread/FATAL]: Error executing task on Chunk source main thread executor for _generated:1329634690
+java.lang.IllegalStateException: POI data mismatch: already registered at fo{x=121, y=3, z=7}
+	at awf.a(SourceFile:82) ~[server.jar:?]
+	at awf.a(SourceFile:66) ~[server.jar:?]
+	at awd.a(SourceFile:51) ~[server.jar:?]
+	at yn.b(SourceFile:1285) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at yl$a.c(SourceFile:554) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at yl$a.w(SourceFile:563) ~[server.jar:?]
+	at alc.c(SourceFile:127) ~[server.jar:?]
+	at yl.a(SourceFile:139) ~[server.jar:?]
+	at bnx.a(SourceFile:231) ~[server.jar:?]
+	at boa.a(SourceFile:109) ~[server.jar:?]
+	at bnx.d(SourceFile:226) ~[server.jar:?]
+	at bnx.d_(SourceFile:438) ~[server.jar:?]
+	at yp.a(SourceFile:203) ~[server.jar:?]
+	at zf.a(SourceFile:915) ~[server.jar:?]
+	at rp.a(SourceFile:40) ~[server.jar:?]
+	at rp.a(SourceFile:10) ~[server.jar:?]
+	at nb.a(SourceFile:21) ~[server.jar:?]
+	at uh.run(SourceFile:18) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at alg.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:750) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:143) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bc(SourceFile:732) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:726) ~[server.jar:?]
+	at alc.bm(SourceFile:103) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:710) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:663) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:03:19] [Server thread/FATAL]: Error executing task on Chunk source main thread executor for _generated:1329634690
+java.lang.IllegalStateException: POI data mismatch: already registered at fo{x=121, y=3, z=8}
+	at awf.a(SourceFile:82) ~[server.jar:?]
+	at awf.a(SourceFile:66) ~[server.jar:?]
+	at awd.a(SourceFile:51) ~[server.jar:?]
+	at yn.b(SourceFile:1285) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at yl$a.c(SourceFile:554) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at yl$a.w(SourceFile:563) ~[server.jar:?]
+	at alc.c(SourceFile:127) ~[server.jar:?]
+	at yl.a(SourceFile:139) ~[server.jar:?]
+	at bnx.a(SourceFile:231) ~[server.jar:?]
+	at boa.a(SourceFile:109) ~[server.jar:?]
+	at bnx.d(SourceFile:226) ~[server.jar:?]
+	at bnx.d_(SourceFile:438) ~[server.jar:?]
+	at yp.a(SourceFile:203) ~[server.jar:?]
+	at zf.a(SourceFile:915) ~[server.jar:?]
+	at rp.a(SourceFile:40) ~[server.jar:?]
+	at rp.a(SourceFile:10) ~[server.jar:?]
+	at nb.a(SourceFile:21) ~[server.jar:?]
+	at uh.run(SourceFile:18) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at alg.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:750) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:143) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bc(SourceFile:732) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:726) ~[server.jar:?]
+	at alc.bm(SourceFile:103) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:710) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:663) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:03:19] [Server thread/FATAL]: Error executing task on Chunk source main thread executor for _generated:1329634690
+java.lang.IllegalStateException: POI data mismatch: already registered at fo{x=122, y=3, z=7}
+	at awf.a(SourceFile:82) ~[server.jar:?]
+	at awf.a(SourceFile:66) ~[server.jar:?]
+	at awd.a(SourceFile:51) ~[server.jar:?]
+	at yn.b(SourceFile:1285) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at yl$a.c(SourceFile:554) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at yl$a.w(SourceFile:563) ~[server.jar:?]
+	at alc.c(SourceFile:127) ~[server.jar:?]
+	at yl.a(SourceFile:139) ~[server.jar:?]
+	at bnx.a(SourceFile:231) ~[server.jar:?]
+	at boa.a(SourceFile:109) ~[server.jar:?]
+	at bnx.d(SourceFile:226) ~[server.jar:?]
+	at bnx.d_(SourceFile:438) ~[server.jar:?]
+	at yp.a(SourceFile:203) ~[server.jar:?]
+	at zf.a(SourceFile:915) ~[server.jar:?]
+	at rp.a(SourceFile:40) ~[server.jar:?]
+	at rp.a(SourceFile:10) ~[server.jar:?]
+	at nb.a(SourceFile:21) ~[server.jar:?]
+	at uh.run(SourceFile:18) ~[server.jar:?]
+	at alc.c(SourceFile:144) ~[server.jar:?]
+	at alg.c(SourceFile:23) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:750) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:143) ~[server.jar:?]
+	at alc.w(SourceFile:118) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.bc(SourceFile:732) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:726) ~[server.jar:?]
+	at alc.bm(SourceFile:103) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:710) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:663) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[13:03:36] [Server thread/INFO]: Lord_Mark fell from a high place
+[13:03:42] [Server thread/WARN]: Fetching packet for removed entity anh['Experience Orb'/37836, l='world', x=5.12, y=58.11, z=0.03]
+[13:04:14] [Server thread/INFO]: Lord_Mark fell from a high place
+[13:04:17] [Server thread/WARN]: Fetching packet for removed entity anh['Experience Orb'/40691, l='world', x=5.24, y=58.12, z=0.04]
+[13:04:35] [Server thread/INFO]: Lord_Mark fell from a high place
+[13:06:18] [Server thread/INFO]: Lord_Mark has made the advancement [Suit Up]
+[13:07:12] [Server thread/INFO]: Lord_Mark burned to death
+[13:07:34] [Server thread/INFO]: Lord_Mark has made the advancement [Local Brewery]
+[13:07:44] [Server thread/INFO]: Lord_Mark fell from a high place
+[13:07:47] [Server thread/INFO]: Lord_Mark lost connection: Disconnected
+[13:07:47] [Server thread/INFO]: Lord_Mark left the game
+[13:07:52] [Server thread/INFO]: Stopping the server
+[13:07:52] [Server thread/INFO]: Stopping server
+[13:07:52] [Server thread/INFO]: Saving players
+[13:07:52] [Server thread/INFO]: Saving worlds
+[13:07:52] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1141490659
+[13:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1141490659): All chunks are saved
+[13:07:52] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1443562171
+[13:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1443562171): All chunks are saved
+[13:07:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:07:52] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1658111942
+[13:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1658111942): All chunks are saved
+[13:07:52] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1277782386
+[13:07:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1277782386): All chunks are saved
+[13:07:52] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1402112177
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1402112177): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1342713704
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1342713704): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:464975422
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM464975422): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:469609547
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM469609547): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1505319509
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1505319509): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:36681274
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM36681274): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:835294094
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM835294094): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:507834039
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM507834039): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:80872620
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM80872620): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1329634690
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1329634690): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1408569393
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1408569393): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:2112539787
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM2112539787): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1195093836
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1195093836): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:457337371
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM457337371): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:2051261465
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM2051261465): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:144905339
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM144905339): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:737106275
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM737106275): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:893106229
+[13:07:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM893106229): All chunks are saved
+[13:07:53] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1449702991
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1449702991): All chunks are saved
+[13:07:54] [Server thread/INFO]: Saving chunks for level 'world'/_generated:1690782764
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1690782764): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1141490659): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1443562171): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1658111942): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1277782386): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1402112177): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1342713704): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM464975422): All chunks are saved
+[13:07:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM469609547): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1505319509): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM36681274): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM835294094): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM507834039): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM80872620): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1329634690): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1408569393): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM2112539787): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1195093836): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM457337371): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM2051261465): All chunks are saved
+[13:07:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM144905339): All chunks are saved
+[13:07:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM737106275): All chunks are saved
+[13:07:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM893106229): All chunks are saved
+[13:07:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1449702991): All chunks are saved
+[13:07:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1690782764): All chunks are saved
